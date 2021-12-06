@@ -1,5 +1,5 @@
 # About
-A webpage from tailwind css template, customized a little with scroll animations [Live site]()
+A webpage from tailwind css template, customized a little with scroll animations [Live site](https://clupai8o0.github.io/Animated-template/)
 
 # Resources
 - Images from [Unsplash](https://unsplash.com)
